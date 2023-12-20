@@ -6,4 +6,5 @@ I works with a small team of data scientists and analysts ([@USAID-OHA-SI](https
 
 I'm passionate about data viz and share thoughts and inspiration with my teammates in a series called [Monday Data Viz](https://usaid-oha-si.github.io/learn/tags/#Monday%20data%20viz) and through our office's [data viz style guide](https://issuu.com/achafetz/docs/oha_styleguide), co-developed with [@tessam30](https://github.com/tessam30).
 
-My public presentations can be found on [Speaker Deck](https://speakerdeck.com/achafetz) and my RStudio Conf 2022 talk can be found [here](https://www.rstudio.com/conference/2022/talks/leveraging-r-based-ecosystem/)
+My public presentations can be found on [Speaker Deck](https://speakerdeck.com/achafetz), my RStudio Conf 2022 talk can be found [here](https://www.rstudio.com/conference/2022/talks/leveraging-r-based-ecosystem/) and Posit Conf 2023 co-talk can be found [here](https://youtu.be/-0pPBAiJaYk?si=1iuhxThZCnZadOQn)
+ 
